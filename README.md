@@ -1,6 +1,7 @@
 # Employee database 
 
 Was made as a course work in uni with Mikhail Galaktionov. 
+
 It allows to insert, delete and find employees. User can also sort list of employees, download and safe database as rtf format file.
 
 Used IDE: NetBeans.
